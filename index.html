@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crosshair Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Crosshair Gallery</h1>
+        <p>Download crosshairs for your favorite games</p>
+    </div>
+
+    <div class="container">
+        <div class="info-message">
+            <p>To add new crosshairs, place image files in the 'crosshairs' folder and run 'update_crosshairs.py'</p>
+        </div>
+        <div class="gallery" id="gallery">
+            <div class="loading">Loading crosshairs...</div>
+        </div>
+    </div>
+
+    <!-- Modal for full-size view -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modal-image" src="" alt="Crosshair">
+            <div class="modal-info">
+                <h3 id="modal-title"></h3>
+                <button id="download-btn" class="download-btn">Download</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

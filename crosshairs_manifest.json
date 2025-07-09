@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-07-09T23:59:09.130513",
+  "crosshairs": [
+    {
+      "id": 1,
+      "filename": "crosshair1.png",
+      "path": "./crosshairs/crosshair1.png"
+    },
+    {
+      "id": 2,
+      "filename": "crosshair2.png",
+      "path": "./crosshairs/crosshair2.png"
+    },
+    {
+      "id": 3,
+      "filename": "crosshair3.png",
+      "path": "./crosshairs/crosshair3.png"
+    },
+    {
+      "id": 4,
+      "filename": "crosshair4.jpeg",
+      "path": "./crosshairs/crosshair4.jpeg"
+    },
+    {
+      "id": 5,
+      "filename": "crosshair5.png",
+      "path": "./crosshairs/crosshair5.png"
+    },
+    {
+      "id": 6,
+      "filename": "crosshair6.png",
+      "path": "./crosshairs/crosshair6.png"
+    },
+    {
+      "id": 7,
+      "filename": "crosshair7.jpg",
+      "path": "./crosshairs/crosshair7.jpg"
+    }
+  ]
+}
