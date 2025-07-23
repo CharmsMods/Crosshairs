@@ -8,12 +8,16 @@
 </head>
 <body>
     <div class="header">
-        <h1>Crosshair Gallery</h1>
+        <h1>Gaming Assets Gallery</h1>
+        <div class="tabs">
+            <button class="tab-button active" data-tab="crosshairs">Crosshairs</button>
+            <button class="tab-button" data-tab="scopes">Scopes</button>
+        </div>
     </div>
 
     <div class="container">
         <div class="gallery" id="gallery">
-            <div class="loading">Loading crosshairs...</div>
+            <div class="loading">Loading assets...</div>
         </div>
     </div>
 
@@ -21,9 +25,8 @@
     <div id="modal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
-            <img id="modal-image" src="" alt="Crosshair">
+            <img id="modal-image" src="" alt="Asset">
             <div class="modal-info">
-                <h3 id="modal-title"></h3>
                 <button id="download-btn" class="download-btn">Download</button>
             </div>
         </div>

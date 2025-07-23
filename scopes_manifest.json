@@ -1,0 +1,121 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-07-23T04:40:35.375308",
+  "scopes": [
+    {
+      "id": 1,
+      "filename": "scope1.webp",
+      "path": "./scopes/scope1.webp"
+    },
+    {
+      "id": 2,
+      "filename": "scope2.webp",
+      "path": "./scopes/scope2.webp"
+    },
+    {
+      "id": 3,
+      "filename": "scope3.webp",
+      "path": "./scopes/scope3.webp"
+    },
+    {
+      "id": 4,
+      "filename": "scope4.webp",
+      "path": "./scopes/scope4.webp"
+    },
+    {
+      "id": 5,
+      "filename": "scope5.webp",
+      "path": "./scopes/scope5.webp"
+    },
+    {
+      "id": 6,
+      "filename": "scope6.webp",
+      "path": "./scopes/scope6.webp"
+    },
+    {
+      "id": 7,
+      "filename": "scope7.webp",
+      "path": "./scopes/scope7.webp"
+    },
+    {
+      "id": 8,
+      "filename": "scope8.png",
+      "path": "./scopes/scope8.png"
+    },
+    {
+      "id": 9,
+      "filename": "scope9.webp",
+      "path": "./scopes/scope9.webp"
+    },
+    {
+      "id": 10,
+      "filename": "scope10.webp",
+      "path": "./scopes/scope10.webp"
+    },
+    {
+      "id": 11,
+      "filename": "scope11.webp",
+      "path": "./scopes/scope11.webp"
+    },
+    {
+      "id": 12,
+      "filename": "scope12.png",
+      "path": "./scopes/scope12.png"
+    },
+    {
+      "id": 13,
+      "filename": "scope13.webp",
+      "path": "./scopes/scope13.webp"
+    },
+    {
+      "id": 14,
+      "filename": "scope14.webp",
+      "path": "./scopes/scope14.webp"
+    },
+    {
+      "id": 15,
+      "filename": "scope15.png",
+      "path": "./scopes/scope15.png"
+    },
+    {
+      "id": 16,
+      "filename": "scope16.png",
+      "path": "./scopes/scope16.png"
+    },
+    {
+      "id": 17,
+      "filename": "scope17.png",
+      "path": "./scopes/scope17.png"
+    },
+    {
+      "id": 18,
+      "filename": "scope18.webp",
+      "path": "./scopes/scope18.webp"
+    },
+    {
+      "id": 19,
+      "filename": "scope19.webp",
+      "path": "./scopes/scope19.webp"
+    },
+    {
+      "id": 20,
+      "filename": "scope20.webp",
+      "path": "./scopes/scope20.webp"
+    },
+    {
+      "id": 21,
+      "filename": "scope21.webp",
+      "path": "./scopes/scope21.webp"
+    },
+    {
+      "id": 22,
+      "filename": "scope22.webp",
+      "path": "./scopes/scope22.webp"
+    },
+    {
+      "id": 23,
+      "filename": "scope23.webp",
+      "path": "./scopes/scope23.webp"
+    }
+  ]
+}
